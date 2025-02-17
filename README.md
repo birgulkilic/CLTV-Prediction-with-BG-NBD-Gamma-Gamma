@@ -1,6 +1,6 @@
 # CLTV-Prediction-with-BG-NBD-Gamma-Gamma
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b4c2a5e1-a9b2-491a-aec8-8aae94840553)
 
 
 Business Problem
